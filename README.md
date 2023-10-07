@@ -5,4 +5,4 @@
 
 - Knight
 
--![image](https://github.com/PhillipThePaster/ImguiThemes/assets/49299203/27187b85-3a42-4557-9006-a76769c7a624)
+- ![image](https://github.com/PhillipThePaster/ImguiThemes/assets/49299203/27187b85-3a42-4557-9006-a76769c7a624)
