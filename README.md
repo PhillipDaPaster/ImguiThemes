@@ -6,8 +6,8 @@
 - Knight
 
 - ![image](https://github.com/PhillipThePaster/ImguiThemes/assets/49299203/27187b85-3a42-4557-9006-a76769c7a624)
-
-- Knight-Dark
+---------------   ---------------   ---------------   ---------------   ---------------   ---------------   ---------------    
+- Nord
 
 - ![image](https://github.com/PhillipThePaster/ImguiThemes/assets/49299203/a947c78b-0051-49f1-af3d-de932c1a4090)
 
