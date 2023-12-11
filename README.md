@@ -20,3 +20,12 @@
 
 - ![image](https://github.com/PhillipThePaster/ImguiThemes/assets/49299203/f99958c0-ed9f-4917-8c8b-517687e2a597)
 
+
+
+---------------   ---------------   ---------------   ---------------   ---------------   ---------------   ---------------    
+- Mod_Dark
+
+- ![image](https://github.com/PhillipThePaster/ImguiThemes/assets/49299203/3274aa80-cdd7-4b80-b480-6e97f2dad900)
+
+
+
